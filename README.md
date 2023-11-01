@@ -1,5 +1,5 @@
 <h1 align="center">Hola! me llamo Facundo Santillan</h1>
-<h3 align="center"Desde los 8 años, me aventuré en el mundo de la programación. Después de cursos de robótica e impresión 3D, sentí la necesidad de algo más. Fue un curso de programación desde cero el que abrió mi mente y definió mi camino. Hoy, con estudios universitarios completos, estoy comprometido con mi crecimiento en SoyHenry.</h3>
+<h3 align="center">Desde los 8 años, me aventuré en el mundo de la programación. Después de cursos de robótica e impresión 3D, sentí la necesidad de algo más. Fue un curso de programación desde cero el que abrió mi mente y definió mi camino. Hoy, con estudios universitarios completos, estoy comprometido con mi crecimiento en SoyHenry.</h3>
 
 - 🌱 Aprendiendo constantemente en **SoyHenry**
 

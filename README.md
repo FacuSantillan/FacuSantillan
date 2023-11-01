@@ -1,9 +1,7 @@
 <h1 align="center">Hola! me llamo Facundo Santillan</h1>
-<h3 align="center">Soy graduado de SoyHenry, soy de Concepción, Tucumán, Argentina. Tengo 20 años. Empecé en el mundo de la programación desde muy chico sin darme cuenta teniendo aproximadamente 8 años. Me adentré más a este mundo cuando tenía 17 años haciendo un curso de robótica e impresión 3D, me gusto, pero creía que necesitaba algo más. Hice un curso de programación desde 0 y ahí es donde se me abrió la mente y decidí que es lo que quería para mi vida. ya habiendo finalizado mis estudios universitarios. Me recomendaron HENRY y sin dudar me adentré a donde estoy y lo cual es de lo que quiero vivir el día de mañana.</h3>
+<h3 align="center"Desde los 8 años, me aventuré en el mundo de la programación. Después de cursos de robótica e impresión 3D, sentí la necesidad de algo más. Fue un curso de programación desde cero el que abrió mi mente y definió mi camino. Hoy, con estudios universitarios completos, estoy comprometido con mi crecimiento en SoyHenry.</h3>
 
-- 🔭 I’m currently working on [Psiconnection](https://psiconnectiondev.vercel.app/)
-
-- 🌱 I’m currently learning **SoyHenry**
+- 🌱 Aprendiendo constantemente en **SoyHenry**
 
 - 💬 Ask me about **react, redux, vite, express, DB, etc.**
 

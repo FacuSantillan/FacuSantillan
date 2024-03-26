@@ -1,9 +1,9 @@
-<h1 align="center">Hola! me llamo Facundo Santillan</h1>
-<h3 align="center">Desde los 8 años, me aventuré en el mundo de la programación. Después de cursos de robótica e impresión 3D, sentí la necesidad de algo más. Fue un curso de programación desde cero el que abrió mi mente y definió mi camino. Hoy, con estudios universitarios completos, estoy comprometido con mi crecimiento en SoyHenry.</h3>
+<h1 align="center">Hola! me llamo Facundo Santillán</h1>
+<h3 align="center">Soy desarrollador web FullStack, amplios conocimientos en lenguaje C++, JavaScript, Pseudo, CSS y HTML. Actualmente cursante de la carrera Tecnico en programación.</h3>
 
 - 🌱 Aprendiendo constantemente en **SoyHenry**
 
-- 💬 Ask me about **react, redux, vite, express, DB, etc.**
+- 💬 Ask me about **JavaScript, react, redux, vite, express, DB, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

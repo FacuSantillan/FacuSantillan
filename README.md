@@ -1,5 +1,5 @@
 <h1 align="center">Hola! me llamo Facundo Santillán</h1>
-<h3 align="center">Soy desarrollador web FullStack, amplios conocimientos en lenguaje C++, JavaScript, Pseudo, CSS y HTML. Actualmente cursante de la carrera Tecnico en programación.</h3>
+<h3 align="center">Soy desarrollador web FullStack, amplios conocimientos en lenguaje C++, JavaScript, Pseudo, CSS y HTML. Actualmente cursante de la carrera Tecnico en programación - UTN y graduado de la carrera de Tecnico Superior en Mecatronica - UTN. residiendo en Concepcion, Tucuman, Argentina.</h3>
 
 - 🌱 Aprendiendo constantemente en **SoyHenry**
 

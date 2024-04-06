@@ -1,5 +1,5 @@
 <h1 align="center">Hola! me llamo Facundo Santillán</h1>
-<h3 align="center">Soy desarrollador web FullStack, amplios conocimientos en lenguaje C++, JavaScript, Pseudo, CSS y HTML. Actualmente cursante de la carrera Tecnico en programación - UTN y graduado de la carrera de Tecnico Superior en Mecatronica - UTN. Residiendo en Concepcion, Tucuman, Argentina.</h3>
+<h3 align="center">Soy un Desarrollador Web FullStack con experiencia en la creación de soluciones digitales para diversos clientes, incluyendo sistemas de gestión de turnos para peluquerías y centros de estética, así como sistemas de gestión para consultorios médicos. Mi enfoque se centra en el desarrollo de un sólido back-end, complementado con habilidades en diseño de interfaces, UX y UI. Utilizo herramientas como Git y Visual Studio, y tengo experiencia en tecnologías front-end como HTML, CSS, JavaScript, React.js y Angular.js, así como en tecnologías back-end como Node.js y PostgreSQL. Busco oportunidades para contribuir con mis habilidades y experiencia en un nuevo entorno de trabajo. Gracias por visitar mi portafolio.</h3>
 
 - 🌱 Aprendiendo constantemente en **SoyHenry**
 
